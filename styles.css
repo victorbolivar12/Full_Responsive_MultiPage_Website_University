@@ -387,6 +387,7 @@ h3{
         font-size: 25px;
         margin-left: 160px;
         margin-bottom: 25px;
+        text-align: center;
     }
     .footer__link{
         font-size: 18px;
@@ -404,17 +405,11 @@ h3{
     .footer__direction{
         font-size: 18px;
     }
-    .title-1{
-        margin-left: 171px;
-    }
     
     .footer__direction:before{
         font-size: 30px;
     }
 
-    .title-3{
-        margin-left: 180px;
-    }
     .andres{
         margin: 0;
         font-size: 15px;
